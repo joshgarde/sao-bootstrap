@@ -1,0 +1,16 @@
+<svg width="375" height="495" xmlns="http://www.w3.org/2000/svg">
+ <metadata id="metadata27">image/svg+xml</metadata>
+ <defs>
+  <linearGradient spreadMethod="pad" y2="1" x2="0.5" y1="0" x1="0.5" id="a">
+   <stop offset="0" stop-opacity="0" stop-color="#fff"/>
+   <stop offset="0.1" stop-opacity="1" stop-color="#fff"/>
+   <stop offset="0.9" stop-opacity="1" stop-color="#fff"/>
+   <stop offset="1" stop-opacity="0" stop-color="#fff"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <g id="g20">
+   <rect fill="url(#a)" width="375" height="495" id="svg_1"/>
+  </g>
+ </g>
+</svg>
